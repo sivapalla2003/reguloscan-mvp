@@ -25,3 +25,8 @@ ReguloSCAN is a tool to prioritize non-coding genetic variants based on regulato
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+Run the Streamlit app:
+python -m streamlit run app.py
+
+
