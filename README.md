@@ -1,4 +1,4 @@
-# 🧬 ReguloSCAN – Schizophrenia Variant Analyzer
+# 🧬 ReguloSCAN - Variant Analyzer
 
 This project is a **Streamlit web application** to analyze schizophrenia gene variants.  
 It allows uploading a `.csv` file of variants and highlights the **best one** based on severity score.
